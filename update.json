@@ -6,6 +6,12 @@
       "version": "1.0.1",
       "url": "https://peyt.org/peytchat-android-update/shell_1.0.1.dex",
       "md5": "c65916931ea4ba71028b0e17d4014e3b"
+    },
+    {
+      "module": "data",
+      "version": "0.0.1",
+      "url": "https://peyt.org/peytchat-android-update/data_0.0.1.dex",
+      "md5": "bfb079f8c7bdbc44d7e3dfdbe048f20a"
     }
   ]
 }

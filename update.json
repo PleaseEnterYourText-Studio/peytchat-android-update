@@ -9,9 +9,9 @@
     },
     {
       "module": "data",
-      "version": "0.0.1",
-      "url": "https://peyt.org/peytchat-android-update/data_0.0.1.dex",
-      "md5": "bfb079f8c7bdbc44d7e3dfdbe048f20a"
+      "version": "0.0.2",
+      "url": "https://peyt.org/peytchat-android-update/data_0.0.2.dex",
+      "md5": "e9584db9770d2fa734d226b42c87d804"
     }
   ]
 }

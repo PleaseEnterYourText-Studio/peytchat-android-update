@@ -12,6 +12,12 @@
       "version": "0.0.2",
       "url": "https://peyt.org/peytchat-android-update/data_0.0.2.dex",
       "md5": "e9584db9770d2fa734d226b42c87d804"
+    },
+    {
+      "module": "notification",
+      "version": "0.0.1",
+      "url": "https://peyt.org/peytchat-android-update/notification_0.0.1.dex",
+      "md5": "d371fa7b3490fa4325df475f603c0b6e"
     }
   ]
 }

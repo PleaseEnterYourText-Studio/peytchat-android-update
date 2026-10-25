@@ -3,20 +3,20 @@
   "patches": [
     { "module": "shell",        "version": "1.0.1",
       "url": "https://raw.githubusercontent.com/PleaseEnterYourText-Studio/peytchat-android-update/main/shell_1.0.1.dex",
-      "sha256": "c65916931ea4ba71028b0e17d4014e3b" },
+      "sha256": "3d467f9b27cc608f6daa634a5a987912a74ade07819b6553efca5d9323e2ee3b" },
     { "module": "data",         "version": "0.0.2",
       "url": "https://raw.githubusercontent.com/PleaseEnterYourText-Studio/peytchat-android-update/main/data_0.0.2.dex",
-      "sha256": "e9584db9770d2fa734d226b42c87d804" },
+      "sha256": "0f5265ae693eb18f987672c5fada84ec37659831361ee59a8fb21b02ff505a38" },
     { "module": "notification", "version": "0.0.1",
       "url": "https://raw.githubusercontent.com/PleaseEnterYourText-Studio/peytchat-android-update/main/notification_0.0.1.dex",
-      "sha256": "d371fa7b3490fa4325df475f603c0b6e" }
+      "sha256": "109a1d69ed1ccfe477360a36dee76c1cb21ca319d5ef7d8d169c93c75a2b9c7b" }
   ],
   "apk": {
     "versionCode": 2,
     "versionName": "1.1.0",
     "url": "https://raw.githubusercontent.com/PleaseEnterYourText-Studio/peytchat-android-update/main/peytchat-v1.1.0-release.apk",
-    "sha256": "267462313154dc8f9959f91fa1501b19",
-    "size": 48938159,
+    "sha256": "530d0efce24339da1c32881df871c0ecff21c633af50aa253f97723bf8d191b0",
+    "size": 48932399,
     "releaseNotes": "修复了一些安全问题"
   }
 }
